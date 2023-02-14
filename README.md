@@ -3,6 +3,8 @@ Album List Project which is built using Reactjs ,CSS.
 
 Fetch and show albums from the api - https://jsonplaceholder.typicode.com/albums
 
+Deployed link - https://sarojinin-albumlist.netlify.app
+
 
 <img width="1440" alt="album-list" src="https://user-images.githubusercontent.com/115941802/218746182-fb7dc052-26b5-4404-b79e-6a70b7860aeb.png">
 
