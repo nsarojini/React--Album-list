@@ -1,3 +1,19 @@
+
+Album List Project which is built using Reactjs ,CSS.
+
+Fetch and show albums from the api - https://jsonplaceholder.typicode.com/albums
+
+
+<img width="1440" alt="album-list" src="https://user-images.githubusercontent.com/115941802/218746182-fb7dc052-26b5-4404-b79e-6a70b7860aeb.png">
+
+
+<img width="1440" alt="add album" src="https://user-images.githubusercontent.com/115941802/218746243-b3c41be9-8b04-4d1e-8f64-7ec538a646a4.png">
+
+
+<img width="1437" alt="Edit album" src="https://user-images.githubusercontent.com/115941802/218746315-d0c972bc-a5c0-47b0-8c92-94791dc483ea.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
